@@ -1,0 +1,6 @@
+setup:
+  port: 0
+
+keyboard:
+  36:
+    F8
