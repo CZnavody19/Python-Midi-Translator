@@ -1,0 +1,11 @@
+setup:
+  port: 0
+
+PAD:
+  36: F8
+  37: "play/pause media"
+
+POT:
+  1: main
+  2: Discord
+  3: Chrome
