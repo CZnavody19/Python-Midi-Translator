@@ -6,7 +6,7 @@ Translates midi messages to key presses and volume control.
 ## Config
 The configuration is very simple. Below is a example...
 
-```yml (config.yml)
+```yml
 setup:
   port: 0
 
