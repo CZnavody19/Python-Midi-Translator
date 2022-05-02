@@ -6,7 +6,7 @@ Translates midi messages to key presses and volume control.
 ## Config
 The configuration is very simple. Below is a example...
 
-```yml
+```yml (config.yml)
 setup:
   port: 0
 
@@ -18,7 +18,7 @@ POT:
   1: main
   2: Discord
   3: Chrome
-```(config.yml)
+```
 We set the midi port to port zero and set the inividual actions.
 So when Pad no. 36 is pressed the F8 key will be pressed.
 
