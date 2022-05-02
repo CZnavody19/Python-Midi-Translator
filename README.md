@@ -3,7 +3,7 @@ Python-Midi-Translator
 Translates midi messages to key presses and volume control.
 
 
-## Config
+## [Config](config.yml)
 The configuration is very simple. Below is a example...
 
 ```yml
@@ -21,3 +21,5 @@ POT:
 ```
 We set the midi port to port zero and set the inividual actions.
 So when Pad no. 36 is pressed the F8 key will be pressed.
+
+The config has to be placed in the same directory as the program!
